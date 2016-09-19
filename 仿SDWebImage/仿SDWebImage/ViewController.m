@@ -19,9 +19,11 @@
     // Do any additional setup after loading the view, typically from a nib.
 }
 
-- (void)didReceiveMemoryWarning {
-    [super didReceiveMemoryWarning];
-    // Dispose of any resources that can be recreated.
+#pragma mark - 搭建界面 -
+- (void)setupUI
+{
+
 }
+
 
 @end
